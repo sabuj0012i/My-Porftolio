@@ -26,9 +26,7 @@ const ContactWithMe = () => {
         {/* Phone */}
         <div className="flex flex-col items-center text-center gap-2 text-lg text-gray-700">
           <FaPhoneAlt className="text-blue-600 text-4xl" />
-          <span className="text-base md:text-lg">
-            +880 Your WhatsApp Number
-          </span>
+          <span className="text-base md:text-lg">+880 1325889717</span>
         </div>
 
         {/* Gmail */}
@@ -75,7 +73,7 @@ const ContactWithMe = () => {
         </a>
 
         <a
-          href="https://wa.me/YOUR_NUMBER"
+          href="https://wa.me/8801325889717"
           target="_blank"
           rel="noopener noreferrer"
           className="text-green-600 hover:scale-110 transition"
